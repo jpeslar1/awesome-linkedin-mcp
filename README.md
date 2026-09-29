@@ -27,6 +27,7 @@ The handful of LinkedIn MCP servers that actually exist. Most are alpha; choose 
 |---|---|---|---|
 | [Zevari](https://zevari.ai) | [Zevari AI](https://zevari.ai) | Commercial, hosted MCP | Read + write. Live LinkedIn profile lookup, behavioral profile, ICP scoring, safe message/comment/connect writes, rate-limit awareness. Used in every workflow in this list. |
 | [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) | Daniel Sticker | Open source, self-hosted | Read-only profile/post lookup. README is honest about ToS risk — read it before using on a real account. |
+| [HeyLead](https://github.com/D4umak/linkedin-outreach-mcp) | [Denys Chumak](https://heylead.dev) | Open source client (MIT) + hosted MCP | AI agent for LinkedIn outreach: finds the right people, writes in your voice, follows up, replies. Six campaign goals: sell a product or service, find a job, hire people, find partners or investors, find a vendor, research interviews. Read + write; sends from your own account via Unipile at a stated pace (20 invitations a day, 100 a week on a free LinkedIn plan). Not affiliated with LinkedIn; README states the ToS position. |
 | [adhikasp/mcp-linkedin](https://github.com/adhikasp/mcp-linkedin) | Adhika Setya Pramudita | Open source, self-hosted | Lightweight feed/jobs reader via unofficial LinkedIn API. Alpha. |
 
 (If you maintain a LinkedIn MCP and want it listed, see [CONTRIBUTING.md](CONTRIBUTING.md).)
