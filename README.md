@@ -27,6 +27,7 @@ The handful of LinkedIn MCP servers that actually exist. Most are alpha; choose 
 |---|---|---|---|
 | [Zevari](https://zevari.ai) | [Zevari AI](https://zevari.ai) | Commercial, hosted MCP | Read + write. Live LinkedIn profile lookup, behavioral profile, ICP scoring, safe message/comment/connect writes, rate-limit awareness. Used in every workflow in this list. |
 | [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) | Daniel Sticker | Open source, self-hosted | Read-only profile/post lookup. README is honest about ToS risk — read it before using on a real account. |
+| [LinkMCP](https://app.linkmcp.io) | [LinkMCP](https://app.linkmcp.io) | Commercial, hosted MCP | Read + write on your own LinkedIn account: profile, company, people and Sales Navigator search, inbox, posts, comments and reactions, connection requests, work email and mobile finding. 7-day free trial; connecting LinkedIn needs a paid plan. |
 | [adhikasp/mcp-linkedin](https://github.com/adhikasp/mcp-linkedin) | Adhika Setya Pramudita | Open source, self-hosted | Lightweight feed/jobs reader via unofficial LinkedIn API. Alpha. |
 
 (If you maintain a LinkedIn MCP and want it listed, see [CONTRIBUTING.md](CONTRIBUTING.md).)
