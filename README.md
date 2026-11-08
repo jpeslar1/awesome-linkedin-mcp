@@ -37,6 +37,7 @@ Claude Code prompts that use a LinkedIn MCP plus other connectors to do real GTM
 
 ### Outbound
 
+- [ai-sdr-kit](https://github.com/zevarihq/ai-sdr-kit) — The open-source AI SDR harness. Gives OpenClaw, Hermes, a Grok bot, Claude Code or Codex the full outbound SOP and every LinkedIn and email sequence. Installs as a Claude Code or Codex plugin.
 - [linkedin-mcp-weekly-outbound-pipeline](https://github.com/jpeslar1/linkedin-mcp-weekly-outbound-pipeline) — Weekly cold outbound batch. Zevari + Instantly + Pipedrive + Google Sheets + Slack. CPG-flavored but adapts to any vertical.
 - [linkedin-mcp-lost-deal-reengagement](https://github.com/jpeslar1/linkedin-mcp-lost-deal-reengagement) — Closed-lost revival driven by live LinkedIn signal (job change, competitor trouble, content engagement), not the calendar.
 
